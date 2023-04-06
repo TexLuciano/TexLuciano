@@ -7,9 +7,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexLuciano&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## 🚀 Minhas Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,sass,styledcomponents," />
-</p>
+
+
+<div align="center">
+
+<h2>🚀 Minhas Skills</h2>
+
+</div>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,sass,styledcomponents,nodejs,postgres,mongodb,git,docker"/>
+</div>
+
+
+
 
